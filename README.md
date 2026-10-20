@@ -1,16 +1,39 @@
-## Hi there 👋
+# 안녕하세요, 최소원입니다
 
-<!--
-**sso1o/sso1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI 챗봇과 웹·앱 프로젝트를 경험하며 신입 개발자로 취업을 준비하고 있습니다.
 
-Here are some ideas to get you started:
+동양미래대학교 인공지능소프트웨어학과를 졸업하고 공학전문학사를 취득했습니다. Python 기반 AI 기능과 Java·JSP·MySQL 웹 개발을 경험했으며, 개인 앱 프로젝트를 통해 화면과 데이터가 연결되는 과정을 배우고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 프로젝트
+
+| 프로젝트 | 주요 내용 | 참여 범위와 상태 |
+| --- | --- | --- |
+| 학사정보 AI 챗봇 | 학사 문서 검색·LLM 응답·음성 입출력 | 학교 팀 프로젝트 · 팀원 1명과 AI 파트 공동 담당 |
+| 반려동물 입양 웹사이트 | Java Servlet·JSP·MySQL 기반 웹 서비스 | 학교 팀 프로젝트 · 백엔드와 DB 연동 담당 |
+| PETCHUP | 반려동물 생활·건강 기록과 일정 관리 | 개인 프로젝트 · Flutter·Dart·로컬 DB · 개발 중 |
+| Naily | 네일 디자인 탐색·검색·콘텐츠 편집 | 개인 프로젝트 · Expo·React Native·TypeScript · 프로토타입 |
+
+PETCHUP과 Naily는 AI 코딩 도구를 활용해 기획·개발한 개인 프로젝트입니다. 현재 구현한 기능과 앞으로 개발할 기능을 구분해 설명합니다.
+
+## 기술 경험
+
+- **Python · FastAPI** — AI 기능과 음성 API 구성
+- **임베딩 · Chroma · LangChain** — 문서 검색과 LLM 응답 연결
+- **Java · Servlet · JSP · MySQL** — 웹 요청 처리와 데이터 저장·조회
+- **Flutter · Dart · SQLCipher** — 개인 앱과 로컬 데이터 저장
+- **Expo · React Native · TypeScript** — 앱 화면과 검색·편집 프로토타입
+
+## 앞으로 발전시키고 싶은 부분
+
+- 기능이 동작하는 이유와 데이터 흐름을 코드로 설명하기
+- 정상 동작뿐 아니라 실패 조건과 저장 상태도 확인하기
+- AI 도구가 제안한 코드를 이해하고 수정·검증하는 능력 기르기
+
+## 학력과 자격
+
+- 동양미래대학교 인공지능소프트웨어학과 졸업 · 공학전문학사
+- PCCE Python Lv.3
+
+## 연락처
+
+[이메일](mailto:choilsowon@gmail.com)
